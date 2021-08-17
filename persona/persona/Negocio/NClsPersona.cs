@@ -13,7 +13,7 @@ namespace persona.Negocio
         {
             persona.Nombre = "Martin";
 
-            return "la persona" + persona.Nombre + "esta hablando";
+            return "La persona " + persona.Nombre + " esta hablando";
         }
         public String Caminar(ClsPersona persona)
         {

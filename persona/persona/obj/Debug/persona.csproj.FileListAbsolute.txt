@@ -1,0 +1,7 @@
+C:\Users\ADIEL\Documents\GitHub\PrimerLaboratorioPersona\persona\persona\bin\Debug\persona.exe.config
+C:\Users\ADIEL\Documents\GitHub\PrimerLaboratorioPersona\persona\persona\bin\Debug\persona.exe
+C:\Users\ADIEL\Documents\GitHub\PrimerLaboratorioPersona\persona\persona\bin\Debug\persona.pdb
+C:\Users\ADIEL\Documents\GitHub\PrimerLaboratorioPersona\persona\persona\obj\Debug\persona.csproj.AssemblyReference.cache
+C:\Users\ADIEL\Documents\GitHub\PrimerLaboratorioPersona\persona\persona\obj\Debug\persona.csproj.CoreCompileInputs.cache
+C:\Users\ADIEL\Documents\GitHub\PrimerLaboratorioPersona\persona\persona\obj\Debug\persona.exe
+C:\Users\ADIEL\Documents\GitHub\PrimerLaboratorioPersona\persona\persona\obj\Debug\persona.pdb
